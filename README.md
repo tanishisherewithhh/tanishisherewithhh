@@ -26,4 +26,4 @@ Skills:  `HTML / JAVA / LUA / PYTHON / JAVASCRIPT / C+`
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=tanishisherewithhh)  
 
-# Also join the [Imperials](https://discord.gg/KWVS8kgvtp) if you play on anarchy servers
+# Also join the [Imperials](https://discord.gg/the-imperials-614275329879572501) if you play on anarchy servers
