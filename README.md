@@ -14,16 +14,10 @@ Skills:  `HTML / JAVA / LUA / PYTHON / JAVASCRIPT / C++`
 - ⚡ Fun fact: I like making games and bots 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/tanishisherewithhh)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discord.gg/KWVS8kgvtp)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/tanishisherewithhh)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://localhost:8080)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanishisherewithhh)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=tanishisherewithhh&show_icons=true&count_private=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=tanishisherewithhh)  
-
-![GitHub metrics](https://metrics.lecoq.io/tanishisherewithhh)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=tanishisherewithhh&show_icons=true&count_private=true)   
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=tanishisherewithhh)  
-
-# Also join the [Imperials](https://discord.gg/the-imperials-614275329879572501) if you play on anarchy servers
