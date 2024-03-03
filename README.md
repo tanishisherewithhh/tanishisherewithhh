@@ -14,7 +14,7 @@ Skills:  `HTML / JAVA / LUA / PYTHON / JAVASCRIPT / C++`
 - ⚡ Fun fact: I like making games and bots 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/tanishisherewithhh)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://localhost:8080)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/tanishisherewithhh)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discord.com/users/835183833216188476)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanishisherewithhh)](https://github.com/anuraghazra/github-readme-stats)
 
