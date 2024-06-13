@@ -9,7 +9,7 @@ Skills:  `HTML / JAVA / LUA / PYTHON / JAVASCRIPT / C++`
 - 👯 I’m looking to collaborate on Minecraft and java 
 - 🤔 I’m looking for help with JavaScript 
 - 💬 Ask me about minecraft 
-- 📫 How to reach me: Discord: tanishisherewith 
+- 📫 How to reach me on Discord: `tanishisherewith`
 - 😄 Pronouns: He/him 
 - ⚡ Fun fact: I like making games and bots 
 
