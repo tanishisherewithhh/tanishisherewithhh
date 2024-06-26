@@ -1,5 +1,5 @@
 ### Hi there 👋,  I am tanishisherewith
-#### I am a `Java` developer working on _minecraft mods and hacks_
+#### I am a `Java` programmer working on _minecraft mods and hacks_
 I made this account for posting what I make. It might involve non java programs. I mostly work with other people in organizations so there a lot fewer solo projects. I play on anarchy servers and hence create a lot of mods specifically to suit my needs on that server.
 
 Skills:  `HTML / JAVA / LUA / PYTHON / JAVASCRIPT / C++`
