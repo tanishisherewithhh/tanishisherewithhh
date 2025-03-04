@@ -1,5 +1,5 @@
 ### Hi there 👋,  I am tanishisherewith
-#### I am a `Java` programmer working on _minecraft mods and hacks_
+#### _I am a `Java` hobbyist who works mainly on minecraft mods and delves into random ideas and topics_
 I do these as a hobby. No actual plans. Still learning a lot. Sorry for the mess
 
 Skills:  `HTML / JAVA / LUA / PYTHON / JAVASCRIPT / C++ / Rust`
@@ -15,5 +15,3 @@ Skills:  `HTML / JAVA / LUA / PYTHON / JAVASCRIPT / C++ / Rust`
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanishisherewithhh)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=tanishisherewithhh&show_icons=true&count_private=true)   
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=tanishisherewithhh)  
