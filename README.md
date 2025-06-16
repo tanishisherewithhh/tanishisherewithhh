@@ -6,9 +6,7 @@ Skills:  `HTML / JAVA / LUA / PYTHON / JAVASCRIPT / C++ / Rust`
 
 - 🔭 I’m currently working on HeliosClient and DynamicHUD
 - 🌱 I’m currently learning Java, C++ and Rust 
-- 👯 I’m looking to collaborate on Minecraft and java 
-- 📫 How to reach me on Discord: `tanishisherewith`
-- 😄 Pronouns: He/him 
+- 📫 Reach me on Discord: `tanishisherewith`
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/tanishisherewithhh)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discord.com/users/835183833216188476)  
 
